@@ -1,0 +1,5 @@
+.container thead {
+    background-color: rgb(21, 21, 211);
+    color: hsl(0, 14%, 95%);
+    font-style: bold;
+}
